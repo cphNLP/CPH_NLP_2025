@@ -11337,10 +11337,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 .fill {
     background-size: cover;
     background-position: center;
-    width: 100%;
+    width: 150%;
     height: 100%;
 }
 .fill img {
-   width: 100%;
+   width: 150%;
   height: 100%;
 }
