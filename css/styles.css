@@ -11336,8 +11336,5 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .fill {
     height: auto;
-    max-height: 100%;
-
     width: auto;
-    max-width: 100%;
 }
