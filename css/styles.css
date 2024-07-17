@@ -11345,9 +11345,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .list_view
 {
 display:flex;
+margin-left: 30px;
 /* align-items:center; */
 }
-.list_view h2
-{
-padding:10px;
-}
+
