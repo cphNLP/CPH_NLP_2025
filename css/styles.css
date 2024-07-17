@@ -11347,3 +11347,13 @@ section#contact form#contactForm :-ms-input-placeholder {
 display:flex;
 }
 
+.list_view h4
+{
+text-align: center;
+}
+
+.list_view p
+{
+  text-align: justify;
+  margin-left: 40px;
+}
