@@ -11341,3 +11341,13 @@ section#contact form#contactForm :-ms-input-placeholder {
 .fill img {
   min-width: 1200px;
 }
+
+.list_view
+{
+display:flex;
+align-items:center;
+}
+.list_view h2
+{
+padding:10px;
+}
