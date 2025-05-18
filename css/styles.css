@@ -11367,8 +11367,12 @@ text-align: center;
   margin-top: 0.5em;
 } */
 
+/* Ensure navbar is fixed and always visible */
 #mainNav {
-  background-color:#black;
-  transition: none;
-  box-shadow: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color:#black ;
+  z-index: 1050; /* Higher than other content */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
