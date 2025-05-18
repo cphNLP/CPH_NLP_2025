@@ -11367,3 +11367,8 @@ text-align: center;
   margin-top: 0.5em;
 } */
 
+#mainNav {
+  background-color:#black;
+  transition: none;
+  box-shadow: none;
+}
