@@ -10948,6 +10948,8 @@ header.masthead {
   text-align: center;
   color: #CB102E;
   background-image: url("../img/PXL_20230702_141558159.jpg");
+  background-color: rgba(255,255,255,0.75);
+  background-blend-mode: lighten;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
